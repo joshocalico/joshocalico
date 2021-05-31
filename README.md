@@ -3,7 +3,6 @@
 I'm Joshua Steele - Nice to meet you!
 
 - 📍 I'm from Adelaide, Australia
-- 💼 I work as a Web Developer at StudyLink
 - 🎓 I'm a Bachelor of Software Engineering Student at the University of South Australia
 
 I'm currently open to contract work.
