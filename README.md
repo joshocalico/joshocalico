@@ -6,7 +6,7 @@ I'm Joshua Steele - Nice to meet you!
 - 🎓 I'm a (severely part-time) Software Engineering Student at UniSA
 - 🚀 I currently am a Full Stack Dev working on Reputation @ Mycelium
 
-Want to get a coffee / got some cool project? I'm `joshocalico` basically everywhere.
+Got some cool project? I'm `joshocalico` basically everywhere.
 
 <table style="text-align: center;">
     <thead>
