@@ -3,7 +3,8 @@
 I'm Joshua Steele - Nice to meet you!
 
 - 📍 I'm from Adelaide, Australia
-- 🎓 I'm a Bachelor of Software Engineering Student at the University of South Australia
+- 🎓 I'm a (severely part-time) Software Engineering Student at UniSA
+- 🚀 I currently am a Full Stack Dev working on Reputation @ Mycelium
 
 I'm currently open to contract work.
 
