@@ -4,7 +4,7 @@ I'm Joshua Steele - Nice to meet you!
 
 - 📍 I'm from Adelaide, Australia
 - 🎓 I'm a (severely part-time) Software Engineering Student at UniSA
-- 🚀 I currently am a Full Stack Dev working on Reputation @ Mycelium
+- 🚀 I currently am a Full Stack Dev working at Fluidity Money
 
 Got some cool project? I'm `joshocalico` basically everywhere.
 
